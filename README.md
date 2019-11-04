@@ -1,0 +1,1 @@
+# SC-assignment-design-patterns
